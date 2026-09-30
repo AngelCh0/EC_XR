@@ -58,28 +58,19 @@ La experiencia se ejecuta con el **XR Interaction Simulator** (teclado y ratón)
 
 ## Capturas de pantalla
 
-**1. Vista general del escenario**
+**1. 
 
 <img width="1243" height="752" alt="1" src="https://github.com/user-attachments/assets/3c599df8-131a-46b7-b105-6a2a3d287fa7" />
 
 
-**2. Configuración XR y componentes en el Inspector**
+**2.
 
-![Inspector](Capturas/02_inspector.png)
+ <img width="1354" height="716" alt="2" src="https://github.com/user-attachments/assets/64b6b3d8-52f3-46d5-9f44-02661c4a5cb4" />
 
-**3. Interacción funcionando**
+**3.
+<img width="1235" height="626" alt="3" src="https://github.com/user-attachments/assets/f6bb452c-f668-46c2-ae87-0a3c029d279a" />
 
-![Interacción](Capturas/03_interaccion.png)
 
-> Crea una carpeta `Capturas` en la raíz del repositorio, guarda ahí las imágenes y verifica que los nombres coincidan con los de arriba.
-
----
-
-## Video demostrativo (máx. 1 minuto)
-
-[Ver video](PEGA-AQUI-EL-ENLACE-DEL-VIDEO)
-
----
 
 ## Tecnologías y paquetes utilizados
 
@@ -89,15 +80,3 @@ La experiencia se ejecuta con el **XR Interaction Simulator** (teclado y ratón)
 - **XR Plugin Management**
 - **XR Interaction Simulator** (sample del XR Interaction Toolkit)
 - **Input System**
-
----
-
-## Estructura del repositorio
-
-```
-├── Assets/
-├── Packages/
-├── ProjectSettings/
-├── Capturas/
-└── README.md
-```
