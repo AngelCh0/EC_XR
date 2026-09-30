@@ -60,7 +60,8 @@ La experiencia se ejecuta con el **XR Interaction Simulator** (teclado y ratón)
 
 **1. Vista general del escenario**
 
-![Vista general](Capturas/01_escenario.png)
+<img width="1243" height="752" alt="1" src="https://github.com/user-attachments/assets/3c599df8-131a-46b7-b105-6a2a3d287fa7" />
+
 
 **2. Configuración XR y componentes en el Inspector**
 
